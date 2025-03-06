@@ -108,7 +108,7 @@ class MyApp extends ConsumerWidget {
               app: MaterialApp(
                 navigatorKey: ApGlobalFunctions.navigatorKey,
                 scaffoldMessengerKey: ApGlobalFunctions.getSnackbarKey(),
-                title: 'Ready LMS',
+                title: 'Incrat Academy',
                 localizationsDelegates: const [
                   S.delegate,
                   GlobalMaterialLocalizations.delegate,

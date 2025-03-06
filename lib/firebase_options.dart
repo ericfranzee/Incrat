@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '870628320482',
     projectId: 'ready-lms-b12c3',
     storageBucket: 'ready-lms-b12c3.firebasestorage.app',
-    iosBundleId: 'com.ready.lms',
+    iosBundleId: 'com.incrat.learn',
   );
 }

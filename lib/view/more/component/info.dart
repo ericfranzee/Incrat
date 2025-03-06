@@ -45,7 +45,7 @@ class Info extends StatelessWidget {
             ],
           ),
           16.ph,
-          LanguageCard(),
+          const LanguageCard(),
           16.ph,
           const ModeCard(),
           16.ph,

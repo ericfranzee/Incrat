@@ -49,7 +49,7 @@ class AppConstants {
   static String currencySymbol = '';
   static const String perPage = 'items_per_page';
   static const String page = 'page_number';
-  static String appName = 'Ready LMS';
+  static String appName = 'Incrat Academy';
 
   // validation
   static const kTextValidatorEmailRegex =
