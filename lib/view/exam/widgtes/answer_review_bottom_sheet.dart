@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/controllers/exam_controller.dart';
-import 'package:ready_lms/model/exam/answer.dart';
-import 'package:ready_lms/model/exam/exam_question.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/view/exam/widgtes/submit_button.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/controllers/exam_controller.dart';
+import 'package:it_academy/model/exam/answer.dart';
+import 'package:it_academy/model/exam/exam_question.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/view/exam/widgtes/submit_button.dart';
 
 import '../../../generated/l10n.dart';
 

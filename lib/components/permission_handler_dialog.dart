@@ -1,8 +1,8 @@
-import 'package:ready_lms/components/buttons/outline_button.dart';
+import 'package:it_academy/components/buttons/outline_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/gen/assets.gen.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/gen/assets.gen.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 class PermissionHandlerDialog extends StatelessWidget {
   final String buttionName;

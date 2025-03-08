@@ -1,8 +1,8 @@
-import 'package:ready_lms/model/course_list.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/components/course_card.dart';
+import 'package:it_academy/model/course_list.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/components/course_card.dart';
 import 'package:flutter/material.dart';
 
 class PopularCourses extends StatelessWidget {

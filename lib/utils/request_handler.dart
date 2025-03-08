@@ -1,8 +1,8 @@
 import 'package:flutter_easyloading/flutter_easyloading.dart';
-import 'package:ready_lms/config/hive_contants.dart';
-import 'package:ready_lms/model/hive_mode/hive_cart_model.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/global_function.dart';
+import 'package:it_academy/config/hive_contants.dart';
+import 'package:it_academy/model/hive_mode/hive_cart_model.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/global_function.dart';
 import 'package:dio/dio.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';

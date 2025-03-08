@@ -6,7 +6,7 @@ class AppColors extends ThemeExtension<AppColors> {
   final Color? accentColor;
   final Color? buttonColor;
   final Color? buttonTextColor;
-  final Color? bodyTextColor; 
+  final Color? bodyTextColor;
   final Color? bodyTextSmallColor;
   final Color? titleTextColor;
   final Color? hintTextColor;
@@ -77,8 +77,8 @@ class AppColors extends ThemeExtension<AppColors> {
 }
 
 class AppStaticColor {
-  static const Color primaryColor = Color(0xFF5864FF);
-  static const Color primaryDarkColor = Color(0xFF8500FA);
+  static const Color primaryColor = Color(0xFF0A6F06);
+  static const Color primaryDarkColor = Color(0xFA82FF32);
   static const Color accentColor = Color(0xFFF3F4F6);
   static const Color whiteColor = Color(0xFFFFFFFF);
   static const Color blackColor = Color(0xFF030712);

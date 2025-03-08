@@ -1,9 +1,9 @@
-import 'package:ready_lms/model/authentication/signup_credential.dart';
-import 'package:ready_lms/model/authentication/user.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/service/auth.dart';
-import 'package:ready_lms/service/hive_service.dart';
-import 'package:ready_lms/utils/api_client.dart';
+import 'package:it_academy/model/authentication/signup_credential.dart';
+import 'package:it_academy/model/authentication/user.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/service/auth.dart';
+import 'package:it_academy/service/hive_service.dart';
+import 'package:it_academy/utils/api_client.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

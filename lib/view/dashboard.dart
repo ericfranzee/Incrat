@@ -5,15 +5,15 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/controllers/dashboard_nav.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/view/courses/course_tab/course_tab_screen.dart';
-import 'package:ready_lms/view/home_tab/home_tab.dart';
-import 'package:ready_lms/view/more/more_tab.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/controllers/dashboard_nav.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/view/courses/course_tab/course_tab_screen.dart';
+import 'package:it_academy/view/home_tab/home_tab.dart';
+import 'package:it_academy/view/more/more_tab.dart';
 
 import 'favourites/favourites_tab.dart';
 

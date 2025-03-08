@@ -2,15 +2,15 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:ready_lms/config/app_components.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/controllers/checkout.dart';
-import 'package:ready_lms/controllers/others.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/config/app_components.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/controllers/checkout.dart';
+import 'package:it_academy/controllers/others.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 class PaymentSection extends ConsumerWidget {
   const PaymentSection({super.key});

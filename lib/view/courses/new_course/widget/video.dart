@@ -2,8 +2,8 @@
 import 'package:chewie/chewie.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/controllers/courses/course.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
+import 'package:it_academy/controllers/courses/course.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
 import 'package:video_player/video_player.dart';
 
 class VideoCard extends ConsumerStatefulWidget {

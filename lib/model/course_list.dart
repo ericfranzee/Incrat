@@ -1,4 +1,4 @@
-import 'package:ready_lms/model/course_detail.dart';
+import 'package:it_academy/model/course_detail.dart';
 
 class CourseListModel {
   CourseListModel({

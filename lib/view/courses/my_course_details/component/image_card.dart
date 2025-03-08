@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/controllers/courses/my_course_details.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/controllers/courses/my_course_details.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
 
 class ImageCard extends StatelessWidget {
   const ImageCard({super.key, required this.image});

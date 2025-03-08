@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:ready_lms/components/buttons/app_button.dart';
-import 'package:ready_lms/components/buttons/outline_button.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/controllers/exam.dart';
-import 'package:ready_lms/gen/assets.gen.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/components/buttons/app_button.dart';
+import 'package:it_academy/components/buttons/outline_button.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/controllers/exam.dart';
+import 'package:it_academy/gen/assets.gen.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 class ExitConfirmationDialog extends ConsumerWidget {
   const ExitConfirmationDialog({super.key});

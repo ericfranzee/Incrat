@@ -1,9 +1,9 @@
-import 'package:ready_lms/components/category_card.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/model/category.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/components/category_card.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/model/category.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

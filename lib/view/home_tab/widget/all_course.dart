@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:ready_lms/components/buttons/outline_button.dart';
-import 'package:ready_lms/components/course_card.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/model/course_list.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/components/buttons/outline_button.dart';
+import 'package:it_academy/components/course_card.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/model/course_list.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 class AllCourses extends StatelessWidget {
   const AllCourses({

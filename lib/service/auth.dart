@@ -1,10 +1,10 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/model/authentication/signup_credential.dart';
-import 'package:ready_lms/service/base_service/auth.dart';
-import 'package:ready_lms/service/hive_service.dart';
-import 'package:ready_lms/utils/api_client.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/model/authentication/signup_credential.dart';
+import 'package:it_academy/service/base_service/auth.dart';
+import 'package:it_academy/service/hive_service.dart';
+import 'package:it_academy/utils/api_client.dart';
 
 class AuthService extends Auth {
   final Ref ref;

@@ -1,25 +1,25 @@
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/view/auth/auth_home_screen.dart';
-import 'package:ready_lms/view/category/all_category_screen.dart';
-import 'package:ready_lms/view/category/search_category_screen.dart';
-import 'package:ready_lms/view/certificate/certificate_screen.dart';
-import 'package:ready_lms/view/check_out/checkout_screen.dart';
-import 'package:ready_lms/view/courses/all_courses/all_course_screen.dart';
-import 'package:ready_lms/view/courses/my_course_details/my_course_details.dart';
-import 'package:ready_lms/view/courses/new_course/course_new_screen.dart';
-import 'package:ready_lms/view/courses/search/search_course_screen.dart';
-import 'package:ready_lms/view/dashboard.dart';
-import 'package:ready_lms/view/exam/exam_screen.dart';
-import 'package:ready_lms/view/other/other_secreen.dart';
-import 'package:ready_lms/view/other/support_secreen.dart';
-import 'package:ready_lms/view/pdf/pdf_screen.dart';
-import 'package:ready_lms/view/profile/profile_screen.dart';
-import 'package:ready_lms/view/quiz/quiz_screen.dart';
-import 'package:ready_lms/view/result_screen/result_screen.dart';
-import 'package:ready_lms/view/splash_screen.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/view/auth/auth_home_screen.dart';
+import 'package:it_academy/view/category/all_category_screen.dart';
+import 'package:it_academy/view/category/search_category_screen.dart';
+import 'package:it_academy/view/certificate/certificate_screen.dart';
+import 'package:it_academy/view/check_out/checkout_screen.dart';
+import 'package:it_academy/view/courses/all_courses/all_course_screen.dart';
+import 'package:it_academy/view/courses/my_course_details/my_course_details.dart';
+import 'package:it_academy/view/courses/new_course/course_new_screen.dart';
+import 'package:it_academy/view/courses/search/search_course_screen.dart';
+import 'package:it_academy/view/dashboard.dart';
+import 'package:it_academy/view/exam/exam_screen.dart';
+import 'package:it_academy/view/other/other_secreen.dart';
+import 'package:it_academy/view/other/support_secreen.dart';
+import 'package:it_academy/view/pdf/pdf_screen.dart';
+import 'package:it_academy/view/profile/profile_screen.dart';
+import 'package:it_academy/view/quiz/quiz_screen.dart';
+import 'package:it_academy/view/result_screen/result_screen.dart';
+import 'package:it_academy/view/splash_screen.dart';
 
 class Routes {
   /*We are mapping all th eroutes here

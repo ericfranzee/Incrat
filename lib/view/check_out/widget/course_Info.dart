@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/components/custom_dot.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/controllers/checkout.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/components/custom_dot.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/controllers/checkout.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 import '../../../utils/global_function.dart';
 

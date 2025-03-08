@@ -38,7 +38,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "apply": MessageLookupByLibrary.simpleMessage("Apply"),
         "audioBook": MessageLookupByLibrary.simpleMessage("Audio Book"),
         "authHomeDes": MessageLookupByLibrary.simpleMessage(
-            "Unlock Skills Anytime, Anywhere with Ready"),
+            "Unlock your full potential and seize every opportunity with"),
         "backToCourseDec": MessageLookupByLibrary.simpleMessage(
             "Back to course for show details."),
         "cClass": MessageLookupByLibrary.simpleMessage("Class"),
@@ -120,7 +120,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "free": MessageLookupByLibrary.simpleMessage("Free"),
         "fullName": MessageLookupByLibrary.simpleMessage("Full Name"),
         "getStarted":
-            MessageLookupByLibrary.simpleMessage("Get Started As Guest"),
+            MessageLookupByLibrary.simpleMessage("Begin your journey as guest"),
         "goToHome": MessageLookupByLibrary.simpleMessage("Go To Home"),
         "hToL": MessageLookupByLibrary.simpleMessage("High to Low"),
         "hello": MessageLookupByLibrary.simpleMessage("Hello"),

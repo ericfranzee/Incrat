@@ -1,15 +1,15 @@
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/view/auth/widget/login_bottom_widget.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/service/hive_service.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/utils/global_function.dart';
-import 'package:ready_lms/components/buttons/app_button.dart';
-import 'package:ready_lms/components/buttons/outline_button.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/view/auth/widget/login_bottom_widget.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/service/hive_service.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/utils/global_function.dart';
+import 'package:it_academy/components/buttons/app_button.dart';
+import 'package:it_academy/components/buttons/outline_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -68,7 +68,7 @@ class _AuthHomeScreenScreenState extends ConsumerState<AuthHomeScreen> {
                         children: [
                           TextSpan(
                               text: '${S.of(context).authHomeDes} ',
-                              style: AppTextStyle(context).title),
+                              style: AppTextStyle(context).subTitle),
                           WidgetSpan(
                               alignment: PlaceholderAlignment.middle,
                               child: Stack(

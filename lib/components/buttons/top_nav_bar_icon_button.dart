@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/theme.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/theme.dart';
 
 class TopNavBarIconButton extends StatelessWidget {
   const TopNavBarIconButton({

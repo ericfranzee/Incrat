@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/service/hive_service.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/service/hive_service.dart';
 
 class BusyLoader extends StatefulWidget {
   const BusyLoader({

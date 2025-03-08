@@ -1,4 +1,4 @@
-import 'package:ready_lms/utils/context_less_nav.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

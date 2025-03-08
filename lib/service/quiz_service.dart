@@ -1,9 +1,9 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/model/quiz/quiz_submit_model.dart';
-import 'package:ready_lms/service/base_service/quiz.dart';
-import 'package:ready_lms/utils/api_client.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/model/quiz/quiz_submit_model.dart';
+import 'package:it_academy/service/base_service/quiz.dart';
+import 'package:it_academy/utils/api_client.dart';
 
 class QuizService extends Quiz {
   final Ref ref;

@@ -1,4 +1,4 @@
-import 'package:ready_lms/model/contact_support.dart';
+import 'package:it_academy/model/contact_support.dart';
 import 'package:dio/dio.dart';
 
 abstract class Other {

@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/model/exam/answer.dart';
-import 'package:ready_lms/model/exam/exam_question.dart';
-import 'package:ready_lms/model/exam/exam_result_model.dart';
-import 'package:ready_lms/service/exam_service.dart';
+import 'package:it_academy/model/exam/answer.dart';
+import 'package:it_academy/model/exam/exam_question.dart';
+import 'package:it_academy/model/exam/exam_result_model.dart';
+import 'package:it_academy/service/exam_service.dart';
 
 class ExamController extends StateNotifier<bool> {
   final Ref ref;

@@ -1,10 +1,10 @@
-import 'package:ready_lms/components/instructor_card.dart';
-import 'package:ready_lms/config/app_components.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/controllers/courses/course.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/components/instructor_card.dart';
+import 'package:it_academy/config/app_components.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/controllers/courses/course.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

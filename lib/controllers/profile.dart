@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/model/authentication/user.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/model/updateUser.dart';
-import 'package:ready_lms/service/hive_service.dart';
-import 'package:ready_lms/service/profile.dart';
+import 'package:it_academy/model/authentication/user.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/model/updateUser.dart';
+import 'package:it_academy/service/hive_service.dart';
+import 'package:it_academy/service/profile.dart';
 
 class ProfileController extends StateNotifier<bool> {
   final Ref ref;

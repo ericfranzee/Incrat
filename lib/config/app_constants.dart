@@ -5,7 +5,7 @@ class AppConstants {
   // static const String baseUrl =
   //     'https://6737-103-133-143-99.ngrok-free.app/api';
 
-  static const String baseUrl = 'https://demo.readylms.app/api';
+  static const String baseUrl = 'https://demo.readylms.app/admin/api';
 
   //static const String baseUrl = 'https://yltapp.co.uk/api';
 
@@ -44,12 +44,12 @@ class AppConstants {
   static const defaultAvatarImageUrl =
       'https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/251940768/original/60fa660ce4c45a23dd122b7deb681a8052672843/a-nice-cartoon-avatar-from-your-real-photo-your-pet-or-any-character-or-animal.jpg';
 
-  // static const String merchantCountryCode = 'USA';
-  // static const String currencyCode = 'USD';
-  static String currencySymbol = '';
+  static const String merchantCountryCode = 'NG';
+  static const String currencyCode = 'NGN';
+  static String currencySymbol = '₦';
   static const String perPage = 'items_per_page';
   static const String page = 'page_number';
-  static String appName = 'Incrat Academy';
+  static String appName = 'IT Academy';
 
   // validation
   static const kTextValidatorEmailRegex =

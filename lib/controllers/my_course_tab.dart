@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/model/course_list.dart';
-import 'package:ready_lms/service/courses/course.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/model/course_list.dart';
+import 'package:it_academy/service/courses/course.dart';
 
 class MyCourseTabController extends StateNotifier<Course> {
   final Ref ref;

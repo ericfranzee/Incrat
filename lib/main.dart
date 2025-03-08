@@ -9,12 +9,12 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:form_builder_validators/form_builder_validators.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:ready_lms/config/hive_contants.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/model/hive_mode/hive_cart_model.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/global_function.dart';
+import 'package:it_academy/config/hive_contants.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/model/hive_mode/hive_cart_model.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/global_function.dart';
 
 import 'firebase_options.dart';
 import 'utils/notifactionhandler.dart';

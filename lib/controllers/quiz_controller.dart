@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/model/quiz/quiz_submit_model.dart';
-import 'package:ready_lms/model/quiz/quize_question_details_model.dart';
-import 'package:ready_lms/service/quiz_service.dart';
-import 'package:ready_lms/view/quiz/widgets/option_card.dart';
+import 'package:it_academy/model/quiz/quiz_submit_model.dart';
+import 'package:it_academy/model/quiz/quize_question_details_model.dart';
+import 'package:it_academy/service/quiz_service.dart';
+import 'package:it_academy/view/quiz/widgets/option_card.dart';
 
 class QuizController extends StateNotifier<bool> {
   final Ref ref;

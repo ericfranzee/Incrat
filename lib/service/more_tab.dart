@@ -1,9 +1,9 @@
 import 'package:dio/src/response.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/model/contact_support.dart';
-import 'package:ready_lms/service/base_service/other.dart';
-import 'package:ready_lms/utils/api_client.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/model/contact_support.dart';
+import 'package:it_academy/service/base_service/other.dart';
+import 'package:it_academy/utils/api_client.dart';
 
 class OtherProvider extends Other {
   final Ref ref;

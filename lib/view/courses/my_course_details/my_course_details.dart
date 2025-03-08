@@ -4,10 +4,10 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:ready_lms/components/shimmer.dart';
-import 'package:ready_lms/controllers/courses/my_course_details.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/view/courses/my_course_details/component/body.dart';
+import 'package:it_academy/components/shimmer.dart';
+import 'package:it_academy/controllers/courses/my_course_details.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/view/courses/my_course_details/component/body.dart';
 
 class MyCourseDetails extends ConsumerStatefulWidget {
   const MyCourseDetails({super.key, required this.courseId});

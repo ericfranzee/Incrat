@@ -2,16 +2,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/components/buttons/app_button.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/controllers/quiz_controller.dart';
-import 'package:ready_lms/gen/assets.gen.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/components/buttons/app_button.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/controllers/quiz_controller.dart';
+import 'package:it_academy/gen/assets.gen.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 import '../../../generated/l10n.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/theme.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/theme.dart';
 
 class AddToCartButton extends StatelessWidget {
   const AddToCartButton({

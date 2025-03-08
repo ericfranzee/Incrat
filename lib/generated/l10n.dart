@@ -213,7 +213,7 @@ class S {
   /// `Unlock Skills Anytime, Anywhere with Ready`
   String get authHomeDes {
     return Intl.message(
-      'Unlock Skills Anytime, Anywhere with Ready',
+      "Unlock your full potential and seize every opportunity with",
       name: 'authHomeDes',
       desc: '',
       args: [],
@@ -223,7 +223,7 @@ class S {
   /// `Get Started As Guest`
   String get getStarted {
     return Intl.message(
-      'Get Started As Guest',
+      'Begin your journey as guest',
       name: 'getStarted',
       desc: '',
       args: [],

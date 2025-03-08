@@ -8,16 +8,16 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:intl/intl.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/hive_contants.dart';
-import 'package:ready_lms/controllers/dashboard_nav.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/model/authentication/user.dart';
-import 'package:ready_lms/model/short_filter.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/hive_contants.dart';
+import 'package:it_academy/controllers/dashboard_nav.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/model/authentication/user.dart';
+import 'package:it_academy/model/short_filter.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 class ApGlobalFunctions {
   ApGlobalFunctions._();

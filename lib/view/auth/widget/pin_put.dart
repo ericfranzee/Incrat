@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:pinput/pinput.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/config/theme.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/config/theme.dart';
 
 class PinPutWidget extends StatefulWidget {
   final void Function(String)? onCompleted;

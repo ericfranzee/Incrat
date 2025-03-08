@@ -1,8 +1,8 @@
 import 'package:collection/collection.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/model/exam/answer.dart';
-import 'package:ready_lms/model/exam/exam_question.dart';
-import 'package:ready_lms/view/quiz/widgets/option_card.dart';
+import 'package:it_academy/model/exam/answer.dart';
+import 'package:it_academy/model/exam/exam_question.dart';
+import 'package:it_academy/view/quiz/widgets/option_card.dart';
 
 class ExamAnswerNotifier extends StateNotifier<List<Answer>> {
   final Ref ref;

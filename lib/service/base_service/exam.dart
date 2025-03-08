@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:ready_lms/model/exam/answer.dart';
+import 'package:it_academy/model/exam/answer.dart';
 
 abstract class Exam {
   Future<Response> startExam({required int examId});

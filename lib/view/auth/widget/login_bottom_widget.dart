@@ -2,19 +2,19 @@ import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/components/bottom_widget_header.dart';
-import 'package:ready_lms/components/buttons/app_button.dart';
-import 'package:ready_lms/components/form_widget.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/controllers/auth.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/service/hive_service.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/utils/global_function.dart';
-import 'package:ready_lms/view/auth/widget/recover_pass_bottom_widget.dart';
-import 'package:ready_lms/view/auth/widget/registration_bottom_widget.dart';
+import 'package:it_academy/components/bottom_widget_header.dart';
+import 'package:it_academy/components/buttons/app_button.dart';
+import 'package:it_academy/components/form_widget.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/controllers/auth.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/service/hive_service.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/utils/global_function.dart';
+import 'package:it_academy/view/auth/widget/recover_pass_bottom_widget.dart';
+import 'package:it_academy/view/auth/widget/registration_bottom_widget.dart';
 
 class LoginBottomWidget extends StatefulWidget {
   const LoginBottomWidget({

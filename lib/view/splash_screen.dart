@@ -3,13 +3,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:ready_lms/components/offline.dart';
-import 'package:ready_lms/config/hive_contants.dart';
-import 'package:ready_lms/controllers/others.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/service/hive_service.dart';
-import 'package:ready_lms/utils/api_client.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
+import 'package:it_academy/components/offline.dart';
+import 'package:it_academy/config/hive_contants.dart';
+import 'package:it_academy/controllers/others.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/service/hive_service.dart';
+import 'package:it_academy/utils/api_client.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
 
 class SplashScreen extends ConsumerStatefulWidget {
   const SplashScreen({super.key});

@@ -3,13 +3,13 @@ import 'package:flutter_form_builder/flutter_form_builder.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:ready_lms/config/app_components.dart';
-import 'package:ready_lms/config/app_input_decor.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/hive_contants.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/utils/entensions.dart';
+import 'package:it_academy/config/app_components.dart';
+import 'package:it_academy/config/app_input_decor.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/hive_contants.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/utils/entensions.dart';
 
 final List<AppLanguage> _languages = [
   AppLanguage(

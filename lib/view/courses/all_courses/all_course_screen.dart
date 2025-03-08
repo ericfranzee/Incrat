@@ -2,21 +2,21 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:ready_lms/components/course_card.dart';
-import 'package:ready_lms/components/drop_down_item.dart';
-import 'package:ready_lms/components/shimmer.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/config/theme.dart';
-import 'package:ready_lms/controllers/category.dart';
-import 'package:ready_lms/controllers/courses/course.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/model/category.dart';
-import 'package:ready_lms/routes.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/utils/global_function.dart';
-import 'package:ready_lms/view/courses/all_courses/component/filter_bottom_widget.dart';
-import 'package:ready_lms/view/courses/all_courses/component/sort_by_bottom_widget.dart';
+import 'package:it_academy/components/course_card.dart';
+import 'package:it_academy/components/drop_down_item.dart';
+import 'package:it_academy/components/shimmer.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/config/theme.dart';
+import 'package:it_academy/controllers/category.dart';
+import 'package:it_academy/controllers/courses/course.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/model/category.dart';
+import 'package:it_academy/routes.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/utils/global_function.dart';
+import 'package:it_academy/view/courses/all_courses/component/filter_bottom_widget.dart';
+import 'package:it_academy/view/courses/all_courses/component/sort_by_bottom_widget.dart';
 
 class AllCourseScreen extends ConsumerStatefulWidget {
   const AllCourseScreen(

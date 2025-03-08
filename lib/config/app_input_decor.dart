@@ -1,8 +1,8 @@
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/config/theme.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/config/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/app_color.dart';
+import 'package:it_academy/config/app_color.dart';
 
 class AppInputDecor {
   AppInputDecor._(); // This class is not meant to be instantiated.

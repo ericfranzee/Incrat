@@ -1,11 +1,11 @@
 import 'package:app_settings/app_settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/gen/assets.gen.dart';
-import 'package:ready_lms/generated/l10n.dart';
-import 'package:ready_lms/components/buttons/app_button.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/gen/assets.gen.dart';
+import 'package:it_academy/generated/l10n.dart';
+import 'package:it_academy/components/buttons/app_button.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
 
 class OfflineScreen extends StatelessWidget {
   const OfflineScreen({super.key});

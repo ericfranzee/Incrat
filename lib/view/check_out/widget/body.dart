@@ -1,10 +1,10 @@
-import 'package:ready_lms/utils/entensions.dart';
-import 'package:ready_lms/view/check_out/widget/coupon.dart';
+import 'package:it_academy/utils/entensions.dart';
+import 'package:it_academy/view/check_out/widget/coupon.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/view/check_out/widget/course_Info.dart';
-import 'package:ready_lms/view/check_out/widget/order_summary_card.dart';
-import 'package:ready_lms/view/check_out/widget/payment_scection.dart';
+import 'package:it_academy/view/check_out/widget/course_Info.dart';
+import 'package:it_academy/view/check_out/widget/order_summary_card.dart';
+import 'package:it_academy/view/check_out/widget/payment_scection.dart';
 
 class Body extends ConsumerStatefulWidget {
   const Body({super.key});

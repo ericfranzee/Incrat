@@ -1,12 +1,12 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/model/course_list.dart' as instr;
-import 'package:ready_lms/model/course_list.dart';
-import 'package:ready_lms/service/auth.dart';
-import 'package:ready_lms/service/favourites_tab.dart';
-import 'package:ready_lms/service/hive_service.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/model/course_list.dart' as instr;
+import 'package:it_academy/model/course_list.dart';
+import 'package:it_academy/service/auth.dart';
+import 'package:it_academy/service/favourites_tab.dart';
+import 'package:it_academy/service/hive_service.dart';
 
 class FavouriteTabController extends StateNotifier<Favourite> {
   final Ref ref;

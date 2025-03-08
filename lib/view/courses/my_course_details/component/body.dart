@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/components/instructor_card.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/controllers/courses/my_course_details.dart';
-import 'package:ready_lms/view/courses/my_course_details/component/exams.dart';
-import 'package:ready_lms/view/courses/my_course_details/component/image_card.dart';
-import 'package:ready_lms/view/courses/my_course_details/component/lessons.dart';
-import 'package:ready_lms/view/courses/my_course_details/component/quizzes.dart';
-import 'package:ready_lms/view/courses/my_course_details/component/review.dart';
-import 'package:ready_lms/view/courses/my_course_details/component/video.dart';
+import 'package:it_academy/components/instructor_card.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/controllers/courses/my_course_details.dart';
+import 'package:it_academy/view/courses/my_course_details/component/exams.dart';
+import 'package:it_academy/view/courses/my_course_details/component/image_card.dart';
+import 'package:it_academy/view/courses/my_course_details/component/lessons.dart';
+import 'package:it_academy/view/courses/my_course_details/component/quizzes.dart';
+import 'package:it_academy/view/courses/my_course_details/component/review.dart';
+import 'package:it_academy/view/courses/my_course_details/component/video.dart';
 
 class Body extends StatelessWidget {
   const Body({super.key});

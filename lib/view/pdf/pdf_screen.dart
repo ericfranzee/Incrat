@@ -1,7 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/controllers/courses/my_course_details.dart';
-import 'package:ready_lms/model/hive_mode/hive_cart_model.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
+import 'package:it_academy/controllers/courses/my_course_details.dart';
+import 'package:it_academy/model/hive_mode/hive_cart_model.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_pdfview/flutter_pdfview.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

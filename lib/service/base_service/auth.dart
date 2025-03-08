@@ -1,4 +1,4 @@
-import 'package:ready_lms/model/authentication/signup_credential.dart';
+import 'package:it_academy/model/authentication/signup_credential.dart';
 import 'package:dio/dio.dart';
 
 abstract class Auth {

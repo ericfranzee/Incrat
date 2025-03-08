@@ -1,13 +1,13 @@
 import 'package:chewie/chewie.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/model/course_list.dart';
-import 'package:ready_lms/model/short_filter.dart';
-import 'package:ready_lms/service/courses/course.dart';
-import 'package:ready_lms/utils/global_function.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/model/course_list.dart';
+import 'package:it_academy/model/short_filter.dart';
+import 'package:it_academy/service/courses/course.dart';
+import 'package:it_academy/utils/global_function.dart';
 import 'package:video_player/video_player.dart';
 
 class CourseController extends StateNotifier<Course> {

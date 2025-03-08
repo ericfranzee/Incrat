@@ -1,8 +1,8 @@
 import 'package:dio/src/response.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/service/hive_service.dart';
-import 'package:ready_lms/utils/api_client.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/service/hive_service.dart';
+import 'package:it_academy/utils/api_client.dart';
 
 import '../base_service/course.dart';
 

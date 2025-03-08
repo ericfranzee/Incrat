@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/app_constants.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/app_constants.dart';
 
 AppColors colors(context) => Theme.of(context).extension<AppColors>()!;
 ThemeData getAppTheme(

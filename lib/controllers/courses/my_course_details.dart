@@ -1,15 +1,15 @@
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:ready_lms/config/hive_contants.dart';
-import 'package:ready_lms/controllers/my_course_tab.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/model/current_class.dart';
-import 'package:ready_lms/model/hive_mode/hive_cart_model.dart';
-import 'package:ready_lms/service/courses/my_course_details.dart';
+import 'package:it_academy/config/hive_contants.dart';
+import 'package:it_academy/controllers/my_course_tab.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/model/current_class.dart';
+import 'package:it_academy/model/hive_mode/hive_cart_model.dart';
+import 'package:it_academy/service/courses/my_course_details.dart';
 import 'package:chewie/chewie.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/app_constants.dart';
+import 'package:it_academy/config/app_constants.dart';
 import 'package:video_player/video_player.dart';
 
 class MyCourseDetailsController extends StateNotifier<MyCourse> {

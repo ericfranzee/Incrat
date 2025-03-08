@@ -1,9 +1,9 @@
-import 'package:ready_lms/config/app_constants.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/model/contact_support.dart';
-import 'package:ready_lms/model/course_detail.dart';
-import 'package:ready_lms/model/master.dart';
-import 'package:ready_lms/service/more_tab.dart';
+import 'package:it_academy/config/app_constants.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/model/contact_support.dart';
+import 'package:it_academy/model/course_detail.dart';
+import 'package:it_academy/model/master.dart';
+import 'package:it_academy/service/more_tab.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

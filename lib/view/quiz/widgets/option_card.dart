@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/app_color.dart';
-import 'package:ready_lms/config/app_text_style.dart';
-import 'package:ready_lms/controllers/quiz_controller.dart';
-import 'package:ready_lms/model/quiz/quiz_submit_model.dart';
-import 'package:ready_lms/view/quiz/widgets/timer_progress_bar.dart';
+import 'package:it_academy/config/app_color.dart';
+import 'package:it_academy/config/app_text_style.dart';
+import 'package:it_academy/controllers/quiz_controller.dart';
+import 'package:it_academy/model/quiz/quiz_submit_model.dart';
+import 'package:it_academy/view/quiz/widgets/timer_progress_bar.dart';
 
 import '../../../model/quiz/quize_question_details_model.dart';
 

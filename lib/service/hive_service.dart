@@ -1,8 +1,8 @@
-import 'package:ready_lms/model/authentication/user.dart';
-import 'package:ready_lms/model/hive_mode/hive_cart_model.dart';
-import 'package:ready_lms/utils/api_client.dart';
+import 'package:it_academy/model/authentication/user.dart';
+import 'package:it_academy/model/hive_mode/hive_cart_model.dart';
+import 'package:it_academy/utils/api_client.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:ready_lms/config/hive_contants.dart';
+import 'package:it_academy/config/hive_contants.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class HiveService {

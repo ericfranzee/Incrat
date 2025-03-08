@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/utils/global_function.dart';
+import 'package:it_academy/utils/global_function.dart';
 
 class ScreenWrapper extends StatelessWidget {
   const ScreenWrapper({

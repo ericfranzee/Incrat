@@ -1,6 +1,6 @@
-import 'package:ready_lms/model/category.dart';
-import 'package:ready_lms/model/common/common_response_model.dart';
-import 'package:ready_lms/service/category.dart';
+import 'package:it_academy/model/category.dart';
+import 'package:it_academy/model/common/common_response_model.dart';
+import 'package:it_academy/service/category.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

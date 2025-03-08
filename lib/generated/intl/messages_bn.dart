@@ -36,7 +36,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "apply": MessageLookupByLibrary.simpleMessage("আবেদন"),
         "audioBook": MessageLookupByLibrary.simpleMessage("অডিও বই"),
         "authHomeDes": MessageLookupByLibrary.simpleMessage(
-            "Unlock Skills Anytime, Anywhere with"),
+            "Unlock your full potential and seize every opportunity with"),
         "backToCourseDec": MessageLookupByLibrary.simpleMessage(
             "বিস্তারিত দেখার জন্যে কোর্সের ফিরে যান"),
         "cClass": MessageLookupByLibrary.simpleMessage("ক্লাস"),

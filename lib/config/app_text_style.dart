@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ready_lms/config/theme.dart';
+import 'package:it_academy/config/theme.dart';
 
 class AppTextStyle {
   final BuildContext context;

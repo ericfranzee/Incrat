@@ -1,7 +1,7 @@
-import 'package:ready_lms/view/more/component/info.dart';
-import 'package:ready_lms/view/more/component/profile.dart';
-import 'package:ready_lms/view/more/component/support.dart';
-import 'package:ready_lms/utils/context_less_nav.dart';
+import 'package:it_academy/view/more/component/info.dart';
+import 'package:it_academy/view/more/component/profile.dart';
+import 'package:it_academy/view/more/component/support.dart';
+import 'package:it_academy/utils/context_less_nav.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

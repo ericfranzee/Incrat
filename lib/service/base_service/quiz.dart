@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:ready_lms/model/quiz/quiz_submit_model.dart';
+import 'package:it_academy/model/quiz/quiz_submit_model.dart';
 
 abstract class Quiz {
   Future<Response> startQuize({required int quizId});
